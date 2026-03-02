@@ -32,6 +32,21 @@ This project aims to support a clean and sustainable environment using modern we
 - Firebase Hosting
 
 ---
+## Project Structure
+
+CLEAN AP PROJECT
+│
+├── FRONTEND/
+│ ├── index.html
+│ ├── package.json
+│ ├── vite.config.ts
+│
+├── Clean-AP backend/
+│ ├── firebase.json
+│ ├── firestore.rules
+│ ├── package.json
+│
+└── Documentation Files
 
 
   
