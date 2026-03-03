@@ -18,7 +18,7 @@ This project aims to support a clean and sustainable environment using modern we
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - HTML
